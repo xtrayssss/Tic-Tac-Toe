@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10fe5d003100489192569c0ea97e5bfe, type: 3}
+  m_Name: AIPlayerConfig
+  m_EditorClassIdentifier: 
+  TypeID: 1
+  <WinText>k__BackingField: AI Win!!!
+  <SymbolSettings>k__BackingField:
+    <Symbol>k__BackingField: 88
+    <Design>k__BackingField: {fileID: 2100000, guid: d26f43b4e8edea447a8aab482d2919b7, type: 2}
+  <MoveText>k__BackingField: AI is making a move...
+  <DebugMode>k__BackingField: 0
+  <ApiKey>k__BackingField: 
+  <FolderId>k__BackingField: 
+  <Difficulty>k__BackingField: Hard
+  <Timeout>k__BackingField: 30
+  <MoveDelay>k__BackingField: 2

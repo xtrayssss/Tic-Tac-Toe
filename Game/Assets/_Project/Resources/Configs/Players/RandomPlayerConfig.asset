@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c76a65a4d1d44be8472f53c2eb8494a, type: 3}
+  m_Name: RandomPlayerConfig
+  m_EditorClassIdentifier: 
+  TypeID: 2
+  <WinText>k__BackingField: Random Player Win!!!
+  <SymbolSettings>k__BackingField:
+    <Symbol>k__BackingField: 88
+    <Design>k__BackingField: {fileID: 2100000, guid: d26f43b4e8edea447a8aab482d2919b7, type: 2}
+  <MoveText>k__BackingField: Random player is making a move...
+  <MoveDelay>k__BackingField: 0.3
