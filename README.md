@@ -39,3 +39,5 @@ A modern implementation of the classic Tic Tac Toe game built with Unity, featur
    - Import Odin Inspector from Asset Store
 4. Configure Yandex GPT API credentials
 5. Build and play!
+   
+![Unity WebGL Player _ TicTacToe - Google Chrome 2024-11-15 14-19-20 (online-video-cutter com) (1)](https://github.com/user-attachments/assets/bcf90a99-78fc-43b6-affb-24496568701c)
